@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/adonition/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/code_examples/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/content_tabs/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/diagram_examples/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/first%20of%20november/indec/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/first%20of%20november/Database/STM32%20SVD%20Database%20%28mongodb%29/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/first%20of%20november/Database/overview/</loc>
+         <lastmod>2025-11-22</lastmod>
+    </url>
+</urlset>
