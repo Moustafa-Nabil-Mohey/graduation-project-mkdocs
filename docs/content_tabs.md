@@ -6,7 +6,14 @@ This is some examples of content tabs.
 
 === "Plain text"
 
-    This is some plain text
+    ```mermaid
+    graph LR
+      A[Start] --> B{Failure?};
+      B -->|Yes| C[Investigate...];
+      C --> D[Debug];
+      D --> B;
+      B ---->|No| E[Success!];
+    ```
 
 === "Unordered list"
 
@@ -20,10 +27,9 @@ This is some examples of content tabs.
     2. Second item
     3. Third item
 
+---
 
-## Here is an example with different code blocks:
-
-    ### Code Blocks in Content Tabs
+## Code Blocks in Content Tabs
 
 === "Python"
 
