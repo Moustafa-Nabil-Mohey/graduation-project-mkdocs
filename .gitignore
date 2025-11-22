@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# SOME USEFUL Commands
+pip install mkdocs-material
+
+venv\Scripts\activate
+mkdocs serve
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin git@github.com:Moustafa-Nabil-Mohey/graduation-project-mkdocs.git
+git remote -v
+git push -u origin main
+git branch
+git branch -m master main
+git push -u origin main --force

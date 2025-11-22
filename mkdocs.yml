@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name:  MicroTrace  Documentation
 site_url: https://sitename.example
 
 theme:
@@ -6,7 +6,7 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/logo.jpg
+  logo: assets/MicroTrace_Logo.png
   favicon: assets/favicon.png
   features:
     - navigation.footer  ## copy right  made with + navigation.footer
@@ -22,7 +22,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary:  blue grey
       accent: deep orange
 
 markdown_extensions:
@@ -54,6 +54,9 @@ markdown_extensions:
 
 plugins:
   - search
+
+
+
 extra:
   social:
     - icon: simple/facebook
